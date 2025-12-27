@@ -26,10 +26,10 @@ I am a passionate Data Analyst with a background in Engineering. I love translat
 ---
 
 ### 🚀 Featured Projects
-**[🛒 RFM Sales Analysis & Customer Segmentation](https://github.com/Mahalakshmi02/RFM-Customer-Segmentation)**
+**[🛒 RFM Sales Analysis & Customer Segmentation](https://github.com/Mahalekshmi02/RFM-Customer-Segmentation)**
 *Analyzed 1 million+ retail transactions using SQL Window Functions and Power BI to identify high-value customer segments.*
 
-**[🚲 Cyclistic Bike Share Analysis](https://github.com/Mahalakshmi02/cyclistic_case_study)**
+**[🚲 Cyclistic Bike Share Analysis](https://github.com/Mahalekshmi02/cyclistic_case_study)**
 *Google Data Analytics Capstone project analyzing historical bike trip data to uncover usage patterns.*
 
 ---
